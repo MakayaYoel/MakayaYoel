@@ -1,16 +1,16 @@
-## Hi there 👋
+<h1 align="center">Hey there, I'm Yoël 👋</h1>
 
-<!--
-**MakayaYoel/MakayaYoel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Here's a couple points about me:
+- I'm a 17 year old high school student from Canada
+  
+- I'm interested in <b>Software Development</b>, <b>AI/ML</b> and <b>Cybersecurity</b>.
 
-Here are some ideas to get you started:
+- I mainly work with these languages: <b>Python</b>, <b>JavaScript</b> and <b>PHP</b>.
+ 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- <b>Current Status:</b> ```I am in Leetcode hell...```
+<hr>
+
+#### Feel free to check out my Github stats and notable projects:
+![MakayaYoel's Stats](https://github-readme-stats.vercel.app/api?username=MakayaYoel&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+![MakayaYoel's Streak](https://github-readme-streak-stats.herokuapp.com/?user=MakayaYoel&theme=tokyonight&hide_border=true)
