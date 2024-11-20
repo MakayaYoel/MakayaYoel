@@ -11,6 +11,6 @@
 <hr>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MakayaYoel&theme=tokyonight&show_icons=true" alt="MakayaYoel's Github Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MakayaYoel&theme=tokyonight&size_weight=0.5&count_weight=0.5&layout=compact" alt="MakayaYoel's Top Languages"/>
+  <img height="200" src="https://github-readme-stats.vercel.app/api?username=MakayaYoel&theme=tokyonight&show_icons=true" alt="MakayaYoel's Github Stats"/>
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MakayaYoel&theme=tokyonight&size_weight=0.5&count_weight=0.5&layout=compact" alt="MakayaYoel's Top Languages"/>
 </p>
