@@ -1,7 +1,7 @@
 <h1 align="center">Hey there, I'm Yoël 👋</h1>
 
 #### Here's a couple points about me:
-- I'm a 17 year old high school student from Canada
+- I'm a 17 year old high school student from Canada (graduating in 2025! 🎓)
   
 - I'm interested in <b>Software Development</b>, <b>AI/ML</b> and <b>Cybersecurity</b>.
 
