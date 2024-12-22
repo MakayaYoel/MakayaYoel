@@ -5,7 +5,7 @@
   
 - I'm interested in: <b>Software Development (Full-Stack/Backend)</b>, <b>AI/ML</b> and <b>Cybersecurity</b>.
 
-- I mainly code in these languages: <b>Python</b>, <b>JavaScript</b>, <b>Golang</b> and <b>PHP</b>.
+- I mainly code in these languages: <b>Python</b>, <b>JavaScript</b>, <b>Go</b> and <b>PHP</b>.
  
 <hr>
 
