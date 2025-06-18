@@ -1,4 +1,4 @@
-I'm Yoël, a Canadian high-school student and Software Engineering Intern at <b>[@Mentra Inc](https://github.com/mentra-Inc)</b>.<br>
+👋 - I'm Yoël<br>
 
 Main Languages: Python, TypeScript, Go
 
