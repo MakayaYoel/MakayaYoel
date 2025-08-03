@@ -1,6 +1,8 @@
-👋 - I'm Yoël<br>
+#### <ins>about me:</ins>
+  - i'm a computer science major @ carleton university (1st year)
+  - i'm interested in backend development, operating systems & computer architecture, and infrastructure
+  - my _current_ favorite languages are c, go, and rust<br>
+  
+**<ins>links:</ins>** [personal website](https://makayayoel.github.io/) (under construction), [linkedin](https://www.linkedin.com/in/yoel-makaya/)
 
-Main Languages: Python, TypeScript, Go
-
-- 👤 [Personal Website](https://makayayoel.github.io/)
-- 🔗 [LinkedIn Profile](https://www.linkedin.com/in/yoel-makaya/)
+<sub>i use arch btw.</sub>
